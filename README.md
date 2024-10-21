@@ -8,7 +8,7 @@ This project is a live and dynamic dashboard created for AtliQ Hardwares, a comp
 Welcome to my live dashboard repository! This project showcases the sales, Finance, Marketing, Supply Chain, and Executive reports of AtliQ hardwares. The dashboard streamlines fragmented Excel data into an interactive, user-friendly system that enhances accessibility and supports better business decisions. You can explore the live version of the dashboard below.
 
 ## Live Dashboard Link
-[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGYyMWJjNTEtNmU1Ni00YTI1LWI2MDYtZDc5YzJhOGJlNzE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGYyMWJjNTEtNmU1Ni00YTI1LWI2MDYtZDc5YzJhOGJlNzE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=139c588bea553c0dd2f4)
 
 ## Features of the Dashboard
 - **Interactive Filters**: Easily filter by region, customer, and division to explore data specific to your interest.
