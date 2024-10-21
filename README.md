@@ -2,7 +2,7 @@
 # AtliQ Hardwares Live Dashboard Project
 
 ## Introduction
-This project is a live and dynamic dashboard created for AtliQ Hardwares, a company that manufactures and sells hardware products such as PCs, mice, printers, and other accessories. The dashboard consolidates sales, distribution, and finance data from various sources to improve reporting efficiency and decision-making.
+This project is a live and dynamic dashboard created for AtliQ Hardwares, a company that manufactures and sells hardware products such as PCs, mouse, printers, and other accessories. The dashboard consolidates sales, distribution, and finance data from various sources to improve reporting efficiency and decision-making.
 
 ## Welcome
 Welcome to my live dashboard repository! This project showcases the sales, Finance, Marketing, Supply Chain, and Executive reports of AtliQ hardwares. The dashboard streamlines fragmented Excel data into an interactive, user-friendly system that enhances accessibility and supports better business decisions. You can explore the live version of the dashboard below.
